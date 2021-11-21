@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "email": "indiradmynti30@gmail.com", 
+            "nama": "Indira Damayanti", 
+            "ttl": "30/07/2001", 
+            "alamat": "VNI"
+        }
+    ],
+    "katalog": [
+        {
+            "id": 1, 
+            "name": "Yellow Mental Breakdance Shirt "
+        }, 
+        {
+            "id": 2, 
+            "name": "Mental Health Awareness Bucket Hat"
+        }
+    ]
+}
